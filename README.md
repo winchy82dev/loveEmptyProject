@@ -4,17 +4,19 @@
 - "tomblind.local-lua-debugger-vscode",
 - "trixnz.vscode-lua",
 - "menerv.love2d-launcher",
-## Optional
+
+### Optional
 - "bschulte.love",
 - "pixelbyte-studios.pixelbyte-love2d"
 
-## how to use this boilerplate
-
+## How to use this boilerplate
 - Clone the repo
 - Install the reommanded extensions
 - Enable format on save on your settings
 
-## how to run the program
+## How to run the program
+- Alt+l or F5 to launch the application
+- Debugging mode is configured
 
-- Alt+l to launch the application
-- F5 to lanch the application with debugging
+### For windows users
+- You have to specify the love2d path on the settings of those extensions
